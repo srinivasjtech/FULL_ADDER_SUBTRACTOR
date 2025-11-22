@@ -81,6 +81,7 @@ Developed by: Srinivas J
 RegisterNumber:25015562
 
 **RTL Schematic**
+
 #FULL ADDER
 
 <img width="919" height="654" alt="Screenshot 2025-11-22 203331" src="https://github.com/user-attachments/assets/ebc84330-a4b7-456a-be07-e7de2b268d61" />
@@ -92,6 +93,7 @@ RegisterNumber:25015562
 
 
 **Output Timing Waveform**
+
 #FULL ADDER
 
 <img width="1245" height="410" alt="Screenshot 2025-11-22 203316" src="https://github.com/user-attachments/assets/545cbcbf-3980-4066-a77e-f6412f11e07f" />
